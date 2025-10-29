@@ -86,3 +86,10 @@ Bougie & Watanabe (2024) Generative Adversarial Reviews
 Mudhiganti (2024) Human-in-the-Loop Agentic Systems
 
 Permit.io (2024) Best Practices for HITL AI Agents**
+
+
+## Citation
+
+If you use this project, please cite as:
+
+Kenneth, W. (2025). Agentic AI for Fair and Collaborative Peer Review. University of Hull MSc Dissertation.
