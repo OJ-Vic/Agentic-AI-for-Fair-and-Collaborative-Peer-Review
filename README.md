@@ -92,4 +92,4 @@ Permit.io (2024) Best Practices for HITL AI Agents**
 
 If you use this project, please cite as:
 
-Kenneth, W. (2025). Agentic AI for Fair and Collaborative Peer Review. University of Hull MSc Dissertation.
+Ojei, V. (2025). Agentic AI for Fair and Collaborative Peer Review. University of Hull MSc Dissertation.
