@@ -93,3 +93,8 @@ Permit.io (2024) Best Practices for HITL AI Agents**
 If you use this project, please cite as:
 
 Ojei, V. (2025). Agentic AI for Fair and Collaborative Peer Review. University of Hull MSc Dissertation.
+
+
+# Dataset
+PeerRead dataset
+https://huggingface.co/datasets/allenai/peer_read
